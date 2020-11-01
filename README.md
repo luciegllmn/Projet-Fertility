@@ -6,3 +6,5 @@ Description des tâches que contiennent le projet :
 - Analyse bivariée (régression logistique simple et multiple)
 - Analyse en composantes principales (ACP)
 - Classification ascendante hiérarchique (CAH)
+
+Projet réalisé à l'aide du langage `SAS`.
